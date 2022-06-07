@@ -309,7 +309,7 @@ contract TeamVesting is Ownable {
     IERC20 public token;
     uint public startTimestamp;
     uint public period = 30 days; // Unlock Period
-    uint public unlockAmountPeriod = 33330000000000000000000000; // 33.33m ARS unlock amount
+    uint public unlockAmountPeriod = 16670000000000000000000000; // 16.67m ARS unlock amount
     mapping(address => uint256) public founderAllocations;
     mapping(address => uint256) public founderClaimed;
 
