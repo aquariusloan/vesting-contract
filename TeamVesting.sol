@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at cronoscan.com on 2022-03-25
-*/
-
 // File: @openzeppelin/contracts/utils/Context.sol
 
 
